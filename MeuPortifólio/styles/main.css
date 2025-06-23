@@ -1,0 +1,49 @@
+@keyframes gradient-move {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-move 6s ease-in-out infinite;
+}
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  color: white;
+  padding: var(--spacing-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-md);
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2 {
+  color: var(--primary-color);
+}
+
+.project-card {
+  border: 1px solid #ccc;
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+  border-radius: 4px;
+}
+
+footer {
+  text-align: center;
+  padding: var(--spacing-md);
+  background-color: var(--primary-color);
+  color: white;
+}
