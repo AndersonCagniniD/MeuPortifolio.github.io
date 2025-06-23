@@ -76,7 +76,7 @@ Atualmente, estou migrando para a área de **desenvolvimento front-end com foco 
 ## 🚀 Deploy
 
 Este portfólio está publicado no GitHub Pages:  
-🔗 **[Acessar Portfólio Online](https://andersoncagnini.github.io/)** (ou substitua com seu link real)
+🔗 **[Acessar Portfólio Online](https://andersoncagninid.github.io/MeuPortifolio.github.io/MeuPortif%C3%B3lio/index.html)** (ou substitua com seu link real)
 
 ---
 
@@ -96,47 +96,5 @@ Este portfólio está publicado no GitHub Pages:
 │   │   └── fotoportifolio.jpg
 │   └── curriculo/
 │       └── ANDERSON CAGNINI.pdf
-
----
-
-## 📄 Funcionalidades
-
-- 🧭 Navegação suave com scroll animado (`scroll-smooth`)
-- 📌 Navbar fixa, responsiva e com botão de modo escuro/claro
-- 🖼️ Imagem de perfil com **animação de partículas ao fundo**
-- 🧠 Cards de habilidades com ícones animados
-- 🗂️ Sessão "Sobre Mim" com texto pessoal e profissional completo
-- 📚 Sessão de projetos com **carrossel de cards**
-- 📋 Sessão de experiências profissionais detalhadas
-- 📬 Formulário de contato funcional (via FormSubmit)
-- 📎 Botão para **download do currículo em PDF**
-- 🎨 Design totalmente responsivo com **modo claro e escuro**
-
----
-
-## 🎯 Seções
-
-- **Início**: Apresentação com animação, imagem de perfil e redes sociais
-- **Sobre Mim**: Biografia e trajetória profissional
-- **Experiências**: Históricos profissionais e acadêmicos
-- **Projetos**: Carrossel de projetos com links e imagens
-- **Habilidades**: Tecnologias utilizadas com ícones e animações
-- **Contato**: Formulário funcional + links sociais + currículo
-
----
-
-## 📬 Contato
-
-- 📧 Email: [cagninianderson@gmail.com](mailto:cagninianderson@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anderson-cagnini/)
-- 🐙 [GitHub](https://github.com/AndersonCagnini)
-- 📷 [Instagram](https://www.instagram.com/dati_cagnini/)
-
----
-
-## 🚀 Deploy
-
-Este portfólio está publicado no GitHub Pages:  
-🔗 **[Acessar Portfólio Online](https://andersoncagnini.github.io/)** (ou substitua com seu link real)
 
 ---
